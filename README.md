@@ -4,15 +4,17 @@ Hi there 👋, i'm a junior web developer :computer:
 
 ## Languages :point_down:
 
+| Language | Rating skill |
+| ------ | ------ |
+| HTML/CSS | :star::star::star::star: |
+| Javascript | :star::star::star: |
+| PHP | :star::star::star::star: |
+| MySQL | :star::star::star: |
+| Framework Laravel | :star::star::star::star: |
+| WordPress | :star::star::star: |
+| React | :star::star: |
+| VueJS | :star::star: |
 
-  - HTML/CSS
-  - Javascript
-  - PHP
-  - MySQL
-  - Framework Laravel
-  - WordPress
-  - React Basics
-  - VueJS Basics
 
 <!--
 **CLGDevWeb/CLGDevWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
