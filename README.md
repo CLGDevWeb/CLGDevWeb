@@ -4,16 +4,19 @@ Hi there 👋, i'm a junior web developer :computer:
 
 ## Languages :point_down:
 
+<img src="https://img.icons8.com/cotton/2x/laptop-coding.png" align="right">
+
 | Language | Rating skill |
 | ------ | ------ |
-| HTML/CSS | :star::star::star::star: |
-| Javascript | :star::star::star: |
-| PHP | :star::star::star::star: |
-| MySQL | :star::star::star: |
-| Framework Laravel | :star::star::star::star: |
-| WordPress | :star::star::star: |
-| React | :star::star: |
-| VueJS | :star::star: |
+| HTML/CSS | :star::star::star::star::cloud: |
+| Javascript | :star::star::star::cloud::cloud: |
+| PHP | :star::star::star::star::cloud: |
+| MySQL | :star::star::star::cloud::cloud: |
+| Framework Laravel | :star::star::star::star::cloud: |
+| WordPress | :star::star::star::cloud::cloud: |
+| React | :star::star::cloud::cloud::cloud: |
+| VueJS | :star::star::cloud::cloud::cloud: |
+
 
 
 <!--
