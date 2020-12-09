@@ -14,7 +14,7 @@ Hi there 👋, i'm a junior web developer :computer:
 | MySQL | :star::star::star::cloud::cloud: |
 | Framework Laravel | :star::star::star::star::cloud: |
 | WordPress | :star::star::star::cloud::cloud: |
-| React | :star::star::cloud::cloud::cloud: |
+| React | :star::star::star::cloud::cloud: |
 | VueJS | :star::star::cloud::cloud::cloud: |
 
 
@@ -25,7 +25,7 @@ Hi there 👋, i'm a junior web developer :computer:
 Here are some ideas to get you started:
 
 -  I’m currently working on Laravel Project
--  I’m currently learning VueJS et LiveWire
-- 💬 Ask me about Laravel basics
+-  I’m currently learning React et LiveWire
+- 💬 Ask me about Laravel topics
 - 📫 How to reach me: clgdevweb@gmail.com
 -->
