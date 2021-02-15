@@ -1,6 +1,6 @@
 # CLG Dev'Web
 
-Hi there 👋, i'm a junior web developer :computer:
+Salut 👋, je suis développeur web "full-stack" passionné :computer:
 
 ## Languages :point_down:
 
@@ -17,15 +17,10 @@ Hi there 👋, i'm a junior web developer :computer:
 | React | :star::star::star::cloud::cloud: |
 | VueJS | :star::star::cloud::cloud::cloud: |
 
+Où? Quoi? Comment?
 
+-  Je travaille actuellement sur une application Laravel/VueJs de rédaction de Notes/Spécs en pseudo Markdown pour me faciliter la préparation des réunions
+-  Je suis en train de me perfectionner sur VueJS, React LiveWire
+- 💬 N'hésitez pas à me questionner sur mon code
+- 📫 Vous pouvez me contacter: clgdevweb@protonmail.com
 
-<!--
-**CLGDevWeb/CLGDevWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I’m currently working on Laravel Project
--  I’m currently learning React et LiveWire
-- 💬 Ask me about Laravel topics
-- 📫 How to reach me: clgdevweb@gmail.com
--->
