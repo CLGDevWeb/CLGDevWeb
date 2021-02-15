@@ -17,10 +17,11 @@ Salut 👋, je suis développeur web "full-stack" passionné :computer:
 | React | :star::star::star::cloud::cloud: |
 | VueJS | :star::star::cloud::cloud::cloud: |
 
-Où? Quoi? Comment?
+## Ce que je fais :
 
--  Je travaille actuellement sur une application Laravel/VueJs de rédaction de Notes/Spécs en pseudo Markdown pour me faciliter la préparation des réunions
--  Je suis en train de me perfectionner sur VueJS, React LiveWire
+-  :blue_car: Mobile et disponible, je suis à la recherche d'un poste de développeur web :rocket:
+-  :construction: Je travaille actuellement sur une application Laravel/VueJs de prise de notes/spécs en pseudo Markdown pour me faciliter la préparation des réunions 
+-  :green_book: Je suis en train de me perfectionner sur VueJS, React et LiveWire
 - 💬 N'hésitez pas à me questionner sur mon code
 - 📫 Vous pouvez me contacter: clgdevweb@protonmail.com
 
