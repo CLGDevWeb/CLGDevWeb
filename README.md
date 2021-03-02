@@ -4,7 +4,7 @@ Salut 👋, je suis développeur web "full-stack" passionné :computer:
 
 ## Languages :point_down:
 
-<img src="https://img.icons8.com/cotton/2x/laptop-coding.png" align="right">
+<img src="https://www.clg-devweb.fr/img/coding_screens.png" align="right">
 
 | Language | Rating skill |
 | ------ | ------ |
