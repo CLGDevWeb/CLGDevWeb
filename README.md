@@ -1,11 +1,11 @@
-# Girardot Charles-Louis - CLG Dev'Web <br>*Développeur web "full-stack"*
+# **Girardot Charles-Louis** - CLG Dev'Web <br>*Développeur web "full-stack"*
 
 
 *Salut 👋, <br/>
 Je suis activement à la recherche d'un emploi de développeur web. Je possède plusieurs expériences réussies dans le développement web applicatif. 
 Je peux apporter à votre entreprise mon dynamisme, mon sérieux et mon goût du travail bien fait.*<br>
 
-⚠️ N'hésitez pas à me contacter : [✉️](mailto:clgdevweb@protonmail.com)
+**N'hésitez pas à me contacter** ➡️ [✉️](mailto:clgdevweb@protonmail.com) 
 
 
 ## Languages :point_down:
