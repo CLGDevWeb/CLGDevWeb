@@ -11,7 +11,7 @@ Salut 👋, je suis développeur web "full-stack" passionné :computer:
 | HTML/CSS | :heart::heart::heart::heart:🖤: |
 | Javascript | :heart::heart::heart:🖤:🖤: |
 | PHP | :heart::heart::heart::heart::heart: |
-| MySQL | :heart::heart::heart:heart:🖤: |
+| MySQL | :heart::heart::heart::heart:🖤: |
 | Framework Laravel | :heart::heart::heart::heart::heart: |
 | WordPress | :heart::heart::heart:🖤:🖤: |
 | React | :heart::heart::heart:🖤:🖤: |
