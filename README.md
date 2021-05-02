@@ -6,16 +6,16 @@ Salut 👋, je suis développeur web "full-stack" passionné :computer:
 
 <img src="https://www.clg-devweb.fr/img/web_dev_building.svg" align="right">
 
-| Language | Rating skill |
+| Language | Love Rate |
 | ------ | ------ |
-| HTML/CSS | :star::star::star::star::cloud: |
-| JS/jQuery | :star::star::star::cloud::cloud: |
-| PHP | :star::star::star::star::cloud: |
-| MySQL | :star::star::star::cloud::cloud: |
-| Framework Laravel | :star::star::star::star::cloud: |
-| WordPress | :star::star::star::cloud::cloud: |
-| React | :star::star::star::cloud::cloud: |
-| VueJS | :star::star::star::cloud::cloud: |
+| HTML/CSS | :heart::heart::heart::heart:🖤: |
+| Javascript | :heart::heart::heart:🖤:🖤: |
+| PHP | :heart::heart::heart::heart::heart: |
+| MySQL | :heart::heart::heart:heart:🖤: |
+| Framework Laravel | :heart::heart::heart::heart::heart: |
+| WordPress | :heart::heart::heart:🖤:🖤: |
+| React | :heart::heart::heart:🖤:🖤: |
+| VueJS | :heart::heart::heart::heart:🖤: |
 
 ## Ce que je fais :
 
