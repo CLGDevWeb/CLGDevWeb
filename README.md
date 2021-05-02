@@ -8,14 +8,14 @@ Salut 👋, je suis développeur web "full-stack" passionné :computer:
 
 | Language | Love Rate |
 | ------ | ------ |
-| HTML/CSS | :heart::heart::heart::heart:🖤: |
-| Javascript | :heart::heart::heart:🖤:🖤: |
+| HTML/CSS | :heart::heart::heart::heart:🖤 |
+| Javascript | :heart::heart::heart:🖤🖤 |
 | PHP | :heart::heart::heart::heart::heart: |
-| MySQL | :heart::heart::heart::heart:🖤: |
+| MySQL | :heart::heart::heart::heart:🖤 |
 | Framework Laravel | :heart::heart::heart::heart::heart: |
-| WordPress | :heart::heart::heart:🖤:🖤: |
-| React | :heart::heart::heart:🖤:🖤: |
-| VueJS | :heart::heart::heart::heart:🖤: |
+| WordPress | :heart::heart::heart:🖤🖤 |
+| React | :heart::heart::heart:🖤🖤 |
+| VueJS | :heart::heart::heart::heart:🖤 |
 
 ## Ce que je fais :
 
