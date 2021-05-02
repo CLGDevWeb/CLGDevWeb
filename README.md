@@ -1,6 +1,12 @@
-# CLG Dev'Web
+# CLG Dev'Web - Girardot Charles-Louis
+## *Développeur web "full-stack"*
 
-Salut 👋, je suis développeur web "full-stack" passionné :computer:
+*Salut 👋, <br/>
+Je suis activement à la recherche d'un emploi de développeur web. Je possède plusieurs expériences réussies dans le développement web applicatif. 
+Je peux apporter à votre entreprise mon dynamisme, mon sérieux et mon goût du travail bien fait.*<br>
+
+⚠️ N'hésitez pas à me contacter 📞
+
 
 ## Languages :point_down:
 
