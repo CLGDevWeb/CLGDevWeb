@@ -2,7 +2,7 @@
 
 
 *Salut 👋, <br/>
-Je suis activement à la recherche d'un emploi de développeur web. Je possède plusieurs expériences réussies dans le développement web applicatif. 
+Je possède plusieurs expériences réussies dans le développement web applicatif. 
 Je peux apporter à votre entreprise mon dynamisme, mon sérieux et mon goût du travail bien fait.*<br>
 
 **N'hésitez pas à me contacter** ➡️ [✉️](mailto:clgdevweb@protonmail.com) 
@@ -33,4 +33,9 @@ Je peux apporter à votre entreprise mon dynamisme, mon sérieux et mon goût du
 -  :green_book: Ma volonté: perfectionner ma conception back-end sans jamais perdre de vue le front-end !
 - 💬 N'hésitez pas à me questionner sur mon code
 - 📫 Vous pouvez me contacter: clgdevweb@protonmail.com
+
+___
+
+*#PHP, #Laravel, #Symfony, #WordPress, #MySQL, #Javascript, #jQuery, #VueJS, #React, #Livewire, #CSS, #Bootstrap, #TailwindCSS, #HTML5, #SOAP, #XML, #JSON, #REST, #Laravel Nova, #Unix, #Algolia (scout), ...*
+___
 
