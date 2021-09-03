@@ -1,4 +1,4 @@
-# **Girardot Charles-Louis** - CLG Dev'Web <br>*Développeur web "full-stack"*
+# *Girardot Charles-Louis*<br>**Développeur web full-stack**
 
 
 *Salut 👋, <br/>
@@ -28,9 +28,9 @@ Je peux apporter à votre entreprise mon dynamisme, mon sérieux et mon goût du
 
 ## Ce que je fais :
 
--  :blue_car: Mobile et disponible, je suis à la recherche d'un poste de développeur web :rocket:
--  :construction: Je travaille actuellement sur une application Laravel/VueJs de prise de notes/spécs en pseudo Markdown pour me faciliter la préparation des réunions 
--  :green_book: Je suis en train de me perfectionner sur VueJS, React et LiveWire
+-  :blue_car: Actuellement en poste, je reste ouvert aux nouveaux challenges :rocket:
+-  :construction: Je travaille actuellement sur une application Laravel/VueJs refonte d'un Legacy: gestion des stocks, imports via API, espace utilisateur et administration avec Laravel Nova (rôles & permissions)
+-  :green_book: Ma volonté: perfectionner ma conception back-end sans jamais perdre de vue le front-end !
 - 💬 N'hésitez pas à me questionner sur mon code
 - 📫 Vous pouvez me contacter: clgdevweb@protonmail.com
 
