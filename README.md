@@ -37,6 +37,6 @@ Je peux apporter à votre entreprise mon dynamisme, mon sérieux et mon goût du
 
 ___
 
-*#PHP, #Laravel, #Symfony, #WordPress, #MySQL, #Javascript, #jQuery, #VueJS, #React, #Livewire, #CSS, #Bootstrap, #TailwindCSS, #HTML5, #SOAP, #XML, #JSON, #REST, #Laravel Nova, #Algolia (Laravel Scout), ...*
+*#PHP, #Laravel, #Symfony, #WordPress, #MySQL, #Javascript, #Typescript, #jQuery, #VueJS, #React, #Livewire, #CSS, #Bootstrap, #TailwindCSS, #HTML5, #SOAP, #XML, #JSON, #REST, #regex, #Laravel Nova, #Algolia (Laravel Scout), ...*
 ___
 
