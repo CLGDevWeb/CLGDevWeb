@@ -28,12 +28,13 @@ Je peux apporter à votre entreprise mon dynamisme, mon sérieux et mon goût du
 
 ## Ce que je fais :
 
--  :blue_car: Actuellement en poste, je reste ouvert aux nouveaux challenges :rocket:
--  :construction: Je travaille actuellement sur une application Laravel/VueJs refonte d'un Legacy: gestion des stocks, imports via API, espace utilisateur et administration sur Laravel Nova
--  :green_book: Ma volonté : perfectionner ma conception back-end sans jamais perdre de vue le front-end !
--  ⌛ Formation « [Maîtrise de la qualité en projet Web](https://www.opquast.com/certification/) » en cours 
+- :blue_car: Actuellement en poste, je reste ouvert aux nouveaux challenges :rocket:
+- :construction: Je travaille actuellement sur une application Laravel/VueJs refonte d'un Legacy: gestion des stocks, imports via API, espace utilisateur et administration sur Laravel Nova
+- :green_book: Ma volonté : perfectionner ma conception back-end sans jamais perdre de vue le front-end !
+- 😤 Certification « [Maîtrise de la qualité en projet Web](https://directory.opquast.com/fr/certificat/URM9BN/) »
 - 💬 N'hésitez pas à me questionner sur mon code
 - 📫 Vous pouvez me contacter: clgdevweb@protonmail.com
+- 📚 Dernières formations: Regex et Typescript
 
 ___
 
