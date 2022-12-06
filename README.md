@@ -10,7 +10,7 @@ Je peux apporter à votre entreprise mon dynamisme, mon sérieux et mon goût du
 
 ## Languages :point_down:
 
-<img src="https://www.clg-devweb.fr/img/web_dev_building.svg" align="right">
+<img src="https://clg-dev.fr/img/laravel_vue.png" align="right">
 
 | Language / Framework | Love Rate |
 | ------ | ------ |
