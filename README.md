@@ -16,25 +16,23 @@ Je peux apporter à votre entreprise mon dynamisme, mon sérieux et mon goût du
 | ------ | ------ |
 | HTML/CSS | :heart::heart::heart::heart:🖤 |
 | BootStrap/TailwindCSS | :heart::heart::heart::heart:🖤 |
-| Javascript | :heart::heart::heart:🖤🖤 |
+| Javascript/Typescript | :heart::heart::heart::heart:🖤 |
 | VueJS | :heart::heart::heart::heart:🖤 |
 | React | :heart::heart::heart:🖤🖤 |
 | PHP | :heart::heart::heart::heart::heart: |
 | Laravel | :heart::heart::heart::heart::heart: |
-| Symfony | :heart::heart::heart:🖤🖤 |
-| WordPress | :heart::heart::heart:🖤🖤 |
 | MySQL | :heart::heart::heart::heart:🖤 |
 
 
 ## Ce que je fais :
 
 - :blue_car: Actuellement en poste, je reste ouvert aux nouveaux challenges :rocket:
-- :construction: Je travaille actuellement sur une application Laravel/VueJs refonte d'un Legacy: gestion des stocks, imports via API, espace utilisateur et administration sur Laravel Nova
+- :construction: Je travaille actuellement sur une application Laravel/VueJs refonte d'un Legacy: gestion des stocks, imports via API, espace utilisateur, administration sur Laravel Nova, moteur de recherche Algolia, etc..
 - :green_book: Ma volonté : perfectionner ma conception back-end sans jamais perdre de vue le front-end !
 - 😤 Certification « [Maîtrise de la qualité en projet Web](https://directory.opquast.com/fr/certificat/URM9BN/) »
 - 💬 N'hésitez pas à me questionner sur mon code
 - 📫 Vous pouvez me contacter: clgdevweb@protonmail.com
-- 📚 Dernières formations: Regex et Typescript
+- 📚 Dernières formations: Typescript, Rust, Go
 
 ___
 
