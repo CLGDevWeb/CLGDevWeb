@@ -18,9 +18,9 @@ Je peux apporter à votre entreprise mon dynamisme, mon sérieux et mon goût du
 | BootStrap/TailwindCSS | :heart::heart::heart::heart:🖤 |
 | Javascript/Typescript | :heart::heart::heart::heart:🖤 |
 | VueJS | :heart::heart::heart::heart:🖤 |
-| React | :heart::heart::heart:🖤🖤 |
 | PHP | :heart::heart::heart::heart::heart: |
 | Laravel | :heart::heart::heart::heart::heart: |
+| Livewire | :heart::heart::heart::heart::heart: |
 | MySQL | :heart::heart::heart::heart:🖤 |
 
 
